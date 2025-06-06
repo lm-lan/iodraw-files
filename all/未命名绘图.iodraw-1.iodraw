@@ -1,0 +1,70 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-1" value="PC管理端" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
+          <mxGeometry x="120" y="290" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-5" value="机柜控制端" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.tablet;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="134.5" y="450" width="71" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="540" width="610" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_server" parent="1" vertex="1">
+          <mxGeometry x="585" y="380.5" width="100" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-8" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="565" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="560" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-10" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-11" value="Java Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="637.5" y="599" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-12" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-13" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-14" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-15" value="" style="html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;" parent="1" target="BeJ2GEk1DTn3z8svyv2P-6" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="230" y="329" as="sourcePoint" />
+            <mxPoint x="590" y="326.9580000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-16" value="" style="html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="220" y="470" as="sourcePoint" />
+            <mxPoint x="580" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-20" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="620" y="480" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-27" value="服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="605" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeJ2GEk1DTn3z8svyv2P-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tVCSwVJ8P_Xz2HPbOcS-1" value="机柜控制端" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.tablet;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="460" width="71" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
