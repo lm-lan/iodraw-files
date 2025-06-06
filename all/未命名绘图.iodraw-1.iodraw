@@ -61,8 +61,8 @@
         <mxCell id="BeJ2GEk1DTn3z8svyv2P-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="620" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2tVCSwVJ8P_Xz2HPbOcS-1" value="机柜控制端" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.tablet;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="144.5" y="460" width="71" height="50" as="geometry" />
+        <mxCell id="2tVCSwVJ8P_Xz2HPbOcS-1" value="app" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.tablet;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="71" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
